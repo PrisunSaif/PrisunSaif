@@ -12,10 +12,11 @@ I'm interested in software engineering and in how AI and ML are applied in produ
 
 | Layer | Tools |
 |---|---|
-| Languages | ![Languages](https://skillicons.dev/icons?i=java,js,c,cpp) |
-| Frontend | ![Frontend](https://skillicons.dev/icons?i=react) |
+| Languages | ![Languages](https://skillicons.dev/icons?i=java,js,ts,py,c,cpp) ![Assembly](https://img.shields.io/badge/Assembly-444444?style=for-the-badge) |
+| Frontend | ![Frontend](https://skillicons.dev/icons?i=react,angular) |
 | Backend | ![Backend](https://skillicons.dev/icons?i=nodejs,express) |
 | Data | ![Data](https://skillicons.dev/icons?i=mysql) |
+| Tools | ![Tools](https://skillicons.dev/icons?i=git,github) |
 
 ## Selected work
 
