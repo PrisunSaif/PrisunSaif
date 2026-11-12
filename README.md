@@ -16,6 +16,7 @@ I'm interested in software engineering and in how AI and ML are applied in produ
 | Frontend | ![Frontend](https://skillicons.dev/icons?i=react,angular) |
 | Backend | ![Backend](https://skillicons.dev/icons?i=nodejs,express) |
 | Data | ![Data](https://skillicons.dev/icons?i=mysql) |
+| Graphics | ![OpenGL](https://img.shields.io/badge/OpenGL_(Python)-5586A4?style=for-the-badge&logo=opengl&logoColor=white) |
 | Tools | ![Tools](https://skillicons.dev/icons?i=git,github) |
 
 ## Selected work
