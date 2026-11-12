@@ -1,9 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="banner-light.svg">
-  <img alt="Prisun, software developer. CSE at BRAC University, Dhaka." src="banner-dark.svg" width="100%">
-</picture>
-
 <img alt="Terminal card: whoami prints prisun, software developer. now.txt says final year CSE, writing my thesis, publishing more projects." src="terminal.svg" width="100%">
 
 Final year Computer Science and Engineering student at BRAC University, Dhaka.
